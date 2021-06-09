@@ -2,7 +2,7 @@
 ## Notice
 As it's originally developed for modpacks and servers, the features are very limited now.
 
-So by now, you can not select game version in GUI or download the game through SMCL itself.
+So by now, you can not select the game version by GUI or download the game through SMCL itself.
 
 ## Features
 * Automatically update your client files with a customized **Update Source**
