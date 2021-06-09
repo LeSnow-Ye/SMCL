@@ -1,11 +1,13 @@
 # SMCL — Sprig Minecraft Launcher
+[中文](https://github.com/LeSnow-Ye/SMCL/blob/master/README_CN.md)
+
 ## Notice
 As it's originally developed for modpacks and servers, the features are very limited now.
 
 So by now, you can not select the game version by GUI or download the game through SMCL itself.
 
 ## Features
-* Automatically update your client files with a customized **Update Source**
+* Automatically update your client files with a specified **Update Source**
 * Customizable random background pictures
 * ~~And so on~~
   
@@ -74,7 +76,7 @@ Now the `SMCL.xml` should be like:
 </ArrayOfManifestItem>
 ```
 
-Each `ManifestItem` should contain a `FilePath`.
+Each `ManifestItem` should contain a `FilePath` and a `Level`.
 
 When the `Level` is set as `Required`, the laucher would download the file from the specified `Url`.
 
@@ -85,4 +87,4 @@ When the `Level` is set as `Banned`, the laucher would automatically disable the
 You just need to add directory `bg` and put your backgrounds there.
 The recommended resolution ratio is 2 : 1.
 
-
+## Enjoy!
