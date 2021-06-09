@@ -87,4 +87,9 @@ When the `Level` is set as `Banned`, the laucher would automatically disable the
 You just need to add directory `bg` and put your backgrounds there.
 The recommended resolution ratio is 2 : 1.
 
+## Dependencies
+* [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+* [KMCCC](https://github.com/MineStudio/KMCCC)
+
 ## Enjoy!
