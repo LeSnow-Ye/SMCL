@@ -88,7 +88,7 @@ namespace SMCL.Utils
 
             LauncherCore core = LauncherCore.Create(new LauncherCoreCreationOption(
 #if DEBUG
-                gameRootPath: @"E:\Minecraft\寰宇之域客户端V1.4\.minecraft",
+                gameRootPath: @"E:\Minecraft\.minecraft",
 #else
                 gameRootPath: @".minecraft",
 #endif

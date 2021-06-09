@@ -8,7 +8,7 @@ namespace SMCL.Models
         private static XmlSerializer xmlSerializer = new XmlSerializer(typeof(Config));
 
         public string Username { get; set; }
-        public string Version { get; set; } = "寰宇之域";
+        public string Version { get; set; };
         public string Memory { get; set; } = "Auto";
         public string JavaPath { get; set; } = "Auto";
         public string ServerIp { get; set; }
