@@ -87,6 +87,9 @@ When the `Level` is set as `Banned`, the laucher would automatically disable the
 You just need to add directory `bg` and put your backgrounds there.
 The recommended resolution ratio is 2 : 1.
 
+### Automatically Joining Server
+Add `<ServerIp>#Your Server IP Address here#</ServerIp>` to the `SMCL.xml`.
+
 ## Dependencies
 * [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
