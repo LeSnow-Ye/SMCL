@@ -85,6 +85,9 @@
 添加 `bg` 文件夹，把背景图丢进去就行了。
 推荐比例为 2 : 1。
 
+### 自动进入服务器
+向 `SMCL.xml` 中加入 `<ServerIp>#服务器 IP 地址#</ServerIp>` 即可.
+
 ## Dependencies
 * [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
