@@ -12,9 +12,9 @@ So by now, you can not select the game version by GUI or download the game throu
 * ~~And so on~~
   
 ## Screenshots
-![](https://pic.imgdb.cn/item/60c0833e844ef46bb24a6fcc.jpg)
-![](https://pic.imgdb.cn/item/60c08379844ef46bb24de6d4.jpg)
-![](https://pic.imgdb.cn/item/60c0846a844ef46bb25bf722.gif)
+![](https://p5.toutiaoimg.com/origin/pgc-image/f77d8f7b56bb44288f563ec03cd4c4bd)
+![](https://p5.toutiaoimg.com/origin/pgc-image/4417a282424246d690c9490f252721e1)
+![](https://p5.toutiaoimg.com/origin/pgc-image/6250b325baae49a0ad500341074e787a)
 
 ## Usage
 ### Specify the Game Version
